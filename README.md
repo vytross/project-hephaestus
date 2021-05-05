@@ -1,2 +1,2 @@
-# project-hephaestus
+# Project Hephaestus
 Only time will tell.
